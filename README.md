@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **deep learning and node.js**
 
-- 💬 Ask me about **machine learning, artificial intelligence and frontend**
+- 💬 Ask me about **machine learning, artificial intelligence and web development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
